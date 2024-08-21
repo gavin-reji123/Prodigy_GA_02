@@ -1,1 +1,1 @@
-# Prodigy_GA_02
+task 2 of prodigy internship
